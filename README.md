@@ -1,2 +1,7 @@
 # belajar.github
-Belajar Github
+
+Pembelajaran Github
+
+## Tahap awal
+Tahap Awal
+Ini untuk belajar github di sekolahgi
